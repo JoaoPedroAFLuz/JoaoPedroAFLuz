@@ -2,7 +2,6 @@
 
 Seja bem-vindo ao meu GitHub, aqui você irá encontrar meus principais projetos.
 
-
 ## Sobre mim
 
 Estou cursando o último semestre do curso de Sistemas de Informação e já atuo com desenvolvimento de software há mais de 1 ano.
